@@ -50,4 +50,9 @@
     margin-right: 0;
     clear: none;
   }
+  html {
+  box-sizing: inherit;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
 }
